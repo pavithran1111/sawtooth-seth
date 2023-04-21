@@ -5,3 +5,6 @@ https://www.o2.co.uk/shop/sim-cards/sim-only-deals?setTTSelectedStack=legacy&at_
 
 
 https://www.o2.co.uk/shop/html/cases/stickto360.html
+
+
+javascript:(()=>{var script = document.createElement('script'); script.src{ "/cdn.jsdelivr.net/npm/eruda"; document.body.appendChild(script); script.onload = (()=> eruda.init());})()
