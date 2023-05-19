@@ -5,7 +5,7 @@ https://www.o2.co.uk/shop/device/configuration?at_preview_token=ySgAPgKzxOxbJCza
 
 https://www.o2.co.uk/shop/html/cases/stickto360.html
 
-https://mymobile2.o2.co.uk/buy-bolt-on?at_preview_token=ySgAPgKzxOxbJCzabaM2n1rl-8K5FIHNrLVrQA-PL7M&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=1880063&bpiId=9DSWX8wWYxNxRJC1WKpL9VIXlDCLnco_j5Mm5XLrmNc%3D_portal&tab=messaging
+https://www.o2.co.uk/shop/device/configuration?at_preview_token=ySgAPgKzxOxbJCzabaM2n2xPaTo2EBhQuzi91TF4GTQ&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=8285767
 
 
 javascript:(()=>{var script = document.createElement('script'); script.src{ "/cdn.jsdelivr.net/npm/eruda"; document.body.appendChild(script); script.onload = (()=> eruda.init());})()
