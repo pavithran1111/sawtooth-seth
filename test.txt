@@ -3,12 +3,10 @@ https://www.o2.co.uk/shop/device/configuration?at_preview_token=ySgAPgKzxOxbJCza
 
 https://www.o2.co.uk/shop/html/cases/stickto360.html
 
-?at_preview_token=ySgAPgKzxOxbJCzabaM2n2R-koJkgl_oThxCXjQqH3c&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=1880063&device-offering-id=MQ0G3ZD-A&contract-type=Custom%20Plan%20with%20CCA&device-upfront=30.00&device-term=36&plan-offering-id=2023CPH21%3A25GB%3A1
---
+https://www.o2.co.uk/
+
+?at_preview_token=ySgAPgKzxOxbJCzabaM2nxev6wH3TmLLusPYxHA6_-c&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=1880063
 
 
-https://mymobile2.o2.co.uk/control-centre?bpiId=Fmj3fJO-iL8oxIIyEZwetE8gA9-SRtUGHO1K1hLDzlw%3D_portal&tab=manage_mpn&subtab=bar_sim
-
-https://mymobile2.o2.co.uk/account?at_preview_token=ySgAPgKzxOxbJCzabaM2n7xOcrTE82XN6WME4-d7s3M&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=8375502
 
 javascript:(()=>{var script = document.createElement('script'); script.src{ "/cdn.jsdelivr.net/npm/eruda"; document.body.appendChild(script); script.onload = (()=> eruda.init());})()
