@@ -7,4 +7,6 @@ https://www.o2.co.uk/shop/device/configuration?
 
 https://mymobile2.o2.co.uk/?at_preview_token=ySgAPgKzxOxbJCzabaM2n5ZEosJIGagUQH8gaal_rCk&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=1880063
 
+https://www.o2.co.uk/shop/phones?at_preview_token=ySgAPgKzxOxbJCzabaM2n_41bKyfv-v2g1iQ6_PNiAw&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=1880063&cnd=new
+
 javascript:(()=>{var script = document.createElement('script'); script.src{ "/cdn.jsdelivr.net/npm/eruda"; document.body.appendChild(script); script.onload = (()=> eruda.init());})()
