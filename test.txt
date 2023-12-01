@@ -2,12 +2,9 @@ https://www.o2.co.uk/shop/device/configuration?at_preview_token=ySgAPgKzxOxbJCza
 ------------
 
 https://www.o2.co.uk/shop/html/cases/stickto360.html
-https://www.o2.co.uk/shop/device/configuration?
-&at_preview_token=ySgAPgKzxOxbJCzabaM2n8xGvWCsBC-OfFif8xjpzhs&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=1680614
 
-https://mymobile2.o2.co.uk/?at_preview_token=ySgAPgKzxOxbJCzabaM2n5ZEosJIGagUQH8gaal_rCk&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=1880063
+https://www.o2.co.uk/?optimizely_token=328de1f6f0f8608bee4b19dd5695476b30fc35a4790fff79b7a522c5fdb8c755&optimizely_x=26565010025&optimizely_x_audiences=&optimizely_preview_layer_ids=26555260037&optimizely_snippet=s3-24104221017
 
-https://www.o2.co.uk/shop/phones?at_preview_token=ySgAPgKzxOxbJCzabaM2n_41bKyfv-v2g1iQ6_PNiAw&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=1880063&cnd=new
 
 https://www.o2.co.uk/black-friday-cyber-monday?at_preview_token=ySgAPgKzxOxbJCzabaM2nyN4297pUohJTMoXpDhHt4Q&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=1880063
 
