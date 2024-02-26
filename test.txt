@@ -1,4 +1,4 @@
-https://www.o2.co.uk/shop/device/configuration?at_preview_token=ySgAPgKzxOxbJCzabaM2n2R-koJkgl_oThxCXjQqH3c&at_preview_index=1_2&at_preview_listed_activities_only=true&at_preview_evaluate_as_true_audience_ids=1880063
+https://www.o2.co.uk/shop/device/configuration?optimizely_token=328de1f6f0f8608bee4b19dd5695476b30fc35a4790fff79b7a522c5fdb8c755&optimizely_x=26728841422&optimizely_x_audiences=&optimizely_preview_layer_ids=26841130294&optimizely_snippet=s3-24104221017
 ------------
 
 https://www.o2.co.uk/shop/html/cases/stickto360.html
