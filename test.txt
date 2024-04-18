@@ -2,7 +2,7 @@ https://www.o2.co.uk/shop/sim-cards/sim-only-deals/configuration?optimizely_toke
 
 https://www.o2.co.uk/shop/html/cases/stickto360.html
 
-https://www.o2.co.uk/shop/phones?optimizely_token=328de1f6f0f8608bee4b19dd5695476b30fc35a4790fff79b7a522c5fdb8c755&optimizely_x=28233530322&optimizely_x_audiences=&optimizely_preview_layer_ids=28229880185&optimizely_snippet=s3-24104221017
+https://www.o2.co.uk/shop/sim-cards/sim-only-deals?tab=phone&optimizely_token=328de1f6f0f8608bee4b19dd5695476b30fc35a4790fff79b7a522c5fdb8c755&optimizely_x=28819790436&optimizely_x_audiences=&optimizely_preview_layer_ids=28823940415&optimizely_snippet=s3-24104221017
 
 
 https://www.o2.co.uk/shop/phones?cnd=new&optimizely_token=328de1f6f0f8608bee4b19dd5695476b30fc35a4790fff79b7a522c5fdb8c755&optimizely_x=28233530322&optimizely_x_audiences=&optimizely_preview_layer_ids=28229880185&optimizely_snippet=s3-24104221017
